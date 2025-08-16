@@ -24,16 +24,10 @@
 ## 🚀 프로젝트 (Projects)
 
 * **프로젝트 1 - [여기에 프로젝트 이름 입력]**
-    * **설명:** (예: FastAPI와 React를 활용한 실시간 채팅 애플리케이션)
-    * **GitHub:** [Repository 링크](https://github.com/your-username/your-repo1)
+    * **설명:** (MS AZURE Project)
+    * **GitHub:** [Repository 링크](https://github.com/prayMiyer/AiNuri2.git)
 
-* **프로젝트 2 - [여기에 프로젝트 이름 입력]**
-    * **설명:** (예: React Native로 개발한 모바일 투두리스트 앱)
-    * **GitHub:** [Repository 링크](https://github.com/your-username/your-repo2)
 
-* **프로젝트 3 - [여기에 프로젝트 이름 입력]**
-    * **설명:** (예: Python과 R을 이용한 데이터 분석 및 시각화 프로젝트)
-    * **GitHub:** [Repository 링크](https://github.com/your-username/your-repo3)
 
 ## 📫 더 알아보기 (Find Me)
 
