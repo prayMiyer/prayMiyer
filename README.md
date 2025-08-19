@@ -36,15 +36,13 @@
 </p>
 
 <p>
-<a href="https://your-blog-url.com">
-<img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
-</a>
+농넷
 <a href="https://www.notion.so/254ab2bcd0a880e0b0ffccf52ceaf4f1?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-농넷
 </a>
+2025 딥레이서
 <a href="https://www.notion.so/Soldesk-2025-Ai-DeepRacer-248ab2bcd0a880369922e02b6e93e1fc?source=copy_link">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-2025 딥레이서
+
 </a>
 </p>
