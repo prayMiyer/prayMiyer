@@ -26,20 +26,25 @@
 * **프로젝트 1 - 성균관대학교 MicroSoft AZURE**
     * **설명:** (MS AZURE + React.native + Python FastApi)
     * **GitHub:** [Repository 링크](https://github.com/prayMiyer/AiNuri2.git)
+    * **project log: **[Notion 링크] (https://www.notion.so/MS-_-24cab2bcd0a880df841ec78a2cb9db4f?source=copy_link)
 
 
 
-## 📫 더 알아보기 (Find Me)
-
+💻 더 알아보기 (Find Me)
 <p>
-    더 많은 작업물과 저의 성장 과정이 궁금하시다면 아래 링크를 확인해 주세요.
+더 많은 작업물과 저의 성장 과정이 궁금하시다면 아래 링크를 확인해 주세요.
 </p>
 
 <p>
-    <a href="https://github.com/your-github-username">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    </a>
-    <a href="https://your-blog-url.com">
-        <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
-    </a>
+<a href="https://your-blog-url.com">
+<img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/>
+</a>
+<a href="https://www.notion.so/254ab2bcd0a880e0b0ffccf52ceaf4f1?source=copy_link">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+농넷
+</a>
+<a href="https://www.notion.so/Soldesk-2025-Ai-DeepRacer-248ab2bcd0a880369922e02b6e93e1fc?source=copy_link">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+2025 딥레이서
+</a>
 </p>
