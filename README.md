@@ -24,7 +24,7 @@
 ## 🚀 프로젝트 (Projects)
 
 * **프로젝트 1 - 성균관대학교 MicroSoft AZURE**
-    * **설명:** (MS AZURE + react.native+Python FastApi)
+    * **설명:** (MS AZURE + React.native + Python FastApi)
     * **GitHub:** [Repository 링크](https://github.com/prayMiyer/AiNuri2.git)
 
 
