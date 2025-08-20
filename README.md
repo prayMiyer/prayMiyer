@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>
 </p>
 
 ## 🚀 프로젝트 (Projects)
