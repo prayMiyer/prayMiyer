@@ -24,12 +24,12 @@
 * **프로젝트 1 - MiniProject Website**
     * **설명:** JavaScript + Python(Fastapi) 
     * **GitHub:** [Repository 링크](https://github.com/prayMiyer/Miniproject-React-and-Fastapi.git)
-    * **Project Log:** [Notion 링크]()
+    * **Notion Log:** [Notion 링크]()
      
 * **프로젝트 2 - 성균관대학교 MicroSoft AZURE**
     * **설명:** MS AZURE + React Native + Python FastAPI
     * **GitHub:** [Repository 링크](https://github.com/prayMiyer/AiNuri2.git)
-    * **Project Log:** [Notion 링크](https://www.notion.so/MS-_-24cab2bcd0a880df841ec78a2cb9db4f?source=copy_link)
+    * **Notion Log:** [Notion 링크](https://www.notion.so/MS-_-24cab2bcd0a880df841ec78a2cb9db4f?source=copy_link)
 
 
 ---
