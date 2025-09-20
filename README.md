@@ -31,7 +31,7 @@
      
 * **프로젝트 2 - 성균관대학교 MicroSoft AZURE**
     * **설명:** MS AZURE + React Native + Python FastAPI
-    * **GitHub:** [Repository 링크](https://github.com/prayMiyer/AiNuri2.git)
+    * **GitHub:** [Repository 링크](https://github.com/bamby33/MS_Project_Ainuri)
     * **Notion Log:** [Notion 링크](https://www.notion.so/MS-_-262ab2bcd0a88050b764fd05af22f59c?source=copy_link)
 
 
